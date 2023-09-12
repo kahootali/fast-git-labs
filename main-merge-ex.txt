@@ -2,5 +2,5 @@ Hello from main branch
 Hello from conflict branch
 
 
-
 Hello from main branch
+Hello from conflict-a branch
